@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BobbyLee3294
 - 👀 I’m interested in WebDev
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on whatever that can help teach me more
 - 📫 How to reach me ...
 
