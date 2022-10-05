@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BobbyLee3294
 - 👀 I’m interested in WebDev
-- 🌱 I’m currently learning JavaScript 
-- 💞️ I’m looking to collaborate on whatever that can help teach me more
+- 🌱 I’m currently learning Javascript (or was it Python?) 
+- 💞️ I’m looking to collaborate on whatever that can help teach me more about web dev
 - 📫 How to reach me ...
 
 <!---
