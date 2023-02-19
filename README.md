@@ -2,7 +2,7 @@
 - 👀 I’m interested in WebDev
 - 🌱 I’m currently learning Javascript (or was it Python?) 
 - 💞️ I’m looking to collaborate on whatever that can help teach me more about web dev
-- 📫 How to reach me ...
+- 📫 How to reach me other than GitHub: I have a personal twitter @techelder
 
 <!---
 BobbyLee3294/BobbyLee3294 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
